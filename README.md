@@ -1,5 +1,5 @@
 
-L'objectif de ce projet et de prédire l'evolution mensuelle des passagers d'une compagnie aérienne
+L'objectif de ce projet est de prédire l'evolution mensuelle des passagers d'une compagnie aérienne
 
 Pour se faire on dispose d'une Série  brute airpass : nombre mensuel de passagers aériens, en milliers, de janvier 1949 à décembre 1960.
 
